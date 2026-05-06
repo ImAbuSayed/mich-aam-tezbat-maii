@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mich-aam-tezbat-maii/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Mich Aam Tezbat Maii](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
